@@ -1,3 +1,4 @@
+package ClasseJeu;
 
 public class PartieDeuxJoueurs extends Partie{
 	
